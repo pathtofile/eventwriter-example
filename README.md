@@ -1,5 +1,7 @@
 # Path's Event Log example
 
+This code serves as an example to create your own Event Log log and events, the modern Manifest way.
+
 **WARNING** Don't using the `auto_wevtutil_*` functions in a production system!
 They are a dodgy-way to do this, insted add the provider during an install process or something
 
