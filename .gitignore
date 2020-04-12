@@ -1,0 +1,9 @@
+
+.vs
+x64
+provider.rc
+*.aps
+*.BIN
+*.bin
+*.user
+temp.man
